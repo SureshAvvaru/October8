@@ -1,1 +1,1 @@
-"Pythonscripting Langauge"
+"Pythonscripting Language"
